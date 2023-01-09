@@ -1,0 +1,53 @@
+p{font-family:cursive;color: rgb(8, 8, 7);
+  font-size: 30px;
+}
+
+
+h1{color: rgb(138, 145, 196);
+     width: 220px;
+    border:15px solid rgb(240, 194, 121);box-shadow: 5px 10px #7e7d7a;
+    padding: 30px;
+    margin: 10px;
+    font-family:fantasy;
+    font-size: 50px;
+  }
+
+body {
+    background-image: url("https://t4.ftcdn.net/jpg/01/42/71/29/360_F_142712953_1XMycIzw6DswM6in91CnDYt3Ruk0c0QU.webp");
+  }
+ p {display: block;}
+ol{
+    list-style-type: upper-roman;}
+    ol{color:rgb(3, 3, 3);
+        font-family:cursive;font-size: 30px;}
+        h2{color:rgb(143, 135, 195);
+            width: 220px;
+            border:15px solid rgb(240, 194, 121);box-shadow: 5px 10px #908c8c;
+           padding: 30px;
+           margin: 10px;
+           font-family:fantasy;
+           font-size: 50px;
+       }
+    h2{position: absolute;
+    left: 1100px;
+top: 400px;}
+ ol{position: absolute;
+left: 1100px;
+top: 550px;}
+h1 {
+    letter-spacing: 4px;
+  }
+  h2 {
+    letter-spacing: 4px;
+  }
+  
+  ol{
+    letter-spacing: 2px;
+  }
+  a href{font-family:cursive;color: beige;}
+  h1 {
+    text-shadow: 2px 2px rgb(77, 74, 68);
+  }
+  h2 {
+    text-shadow: 2px 2px rgb(77, 74, 68);
+  }
